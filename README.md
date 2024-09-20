@@ -11,3 +11,6 @@ pandas
 seaborn
 matplotlib.pyplot 
 CSV
+
+Project Board :
+https://trello.com/b/QUBO5LeD
